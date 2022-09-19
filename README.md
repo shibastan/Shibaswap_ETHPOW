@@ -12,7 +12,10 @@ Python code for swapping tokens on Shibaswap on Proof-of-Work Ethereum
     - python -m pip install https://github.com/shibastan/uniswap-python/zipball/master
 
 
-3. Set parameters in shibaswap.py
+3. Download shibaswap.py and ERC20_abi.json, and save these in the same folder
+
+
+4. Set parameters in shibaswap.py
 
     - Include your wallet public key and private key (there are safer ways to pass the private key than in plaintext, but I leave that to the reader)
   
@@ -23,5 +26,5 @@ Python code for swapping tokens on Shibaswap on Proof-of-Work Ethereum
     - Enter the amount of tokens you would like to sell
 
 
-4. Run code, happy swapping!
+5. Run code, happy swapping!
 
