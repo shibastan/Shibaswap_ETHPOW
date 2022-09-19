@@ -10,7 +10,7 @@ Python code for swapping tokens on Shibaswap on Proof-of-Work Ethereum
     
     - python -m pip install https://github.com/shibastan/uniswap-python/zipball/master
 
-If you have issues with the above commands, try using "python3" or "py" instead of "python" at the beginning
+  If you have issues with the above commands, try using "python3" or "py" instead of "python" at the beginning
 
 
 3. Set parameters in shibaswap.py
