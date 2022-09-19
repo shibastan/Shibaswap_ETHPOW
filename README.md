@@ -1,6 +1,9 @@
 # Shibaswap_ETHPOW
 Python code for swapping tokens on Shibaswap on Proof-of-Work Ethereum
 
+<b>!!! DISCLAIMER !!!</b>
+<b>Use this at your own risk, I cannot guarantee the accuracy or reliability of this code.</b>
+
 1. Install and setup Python (https://realpython.com/installing-python/)
 
 
