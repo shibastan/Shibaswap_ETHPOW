@@ -4,7 +4,7 @@ Python code for swapping tokens on Shibaswap on Proof-of-Work Ethereum
 1. Install and setup Python (https://realpython.com/installing-python/)
 
 
-2. Install Python packages "web3" and "uniswap-python" by entering the following commands into the command line/terminal. If you have issues with these commands try using "python3" or "py" instead of "python" at the beginning
+2. Install Python packages <i>web3</i> and <i>uniswap-python</i> by entering the following commands into the command line/terminal. If you have issues with these commands try using "python3" or "py" instead of "python" at the beginning
 
 
     - python -m pip install web3
