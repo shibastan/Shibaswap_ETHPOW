@@ -12,7 +12,7 @@ Python code for swapping tokens on Shibaswap on Proof-of-Work Ethereum
     - python -m pip install https://github.com/shibastan/uniswap-python/zipball/master
 
 
-3. Download shibaswap.py and ERC20_abi.json, and save these in the same folder
+3. Download "shibaswap.py" and "ERC20_abi.json" from this Github, and save these in the same folder
 
 
 4. Set parameters in shibaswap.py
