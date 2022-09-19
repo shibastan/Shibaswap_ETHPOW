@@ -7,15 +7,15 @@ Python code for swapping tokens on Shibaswap on Proof-of-Work Ethereum
 2. Install Python packages "web3" and "uniswap-python" by entering the following commands into the command line/terminal. If you have issues with these commands try using "python3" or "py" instead of "python" at the beginning
 
 
-    - python -m pip install web3
+    - <i>python -m pip install web3</i>
     
-    - python -m pip install https://github.com/shibastan/uniswap-python/zipball/master
+    - <i>python -m pip install https://github.com/shibastan/uniswap-python/zipball/master</i>
 
 
-3. Download <i>shibaswap.py</i> and "ERC20_abi.json" from this Github, and save these in the same folder
+3. Download <i>shibaswap.py</i> and <i>ERC20_abi.json</i> from this Github, and save these in the same folder
 
 
-4. Set parameters in shibaswap.py
+4. Set parameters in <i>shibaswap.py</i>
 
     - Include your wallet public key and private key (there are safer ways to pass the private key than in plaintext, but I leave that to the reader)
   
