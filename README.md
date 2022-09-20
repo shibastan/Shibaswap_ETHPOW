@@ -27,7 +27,7 @@ Python code for swapping tokens on Shibaswap on Proof-of-Work Ethereum
   
     - Set maximum slippage for the trade (in decimal form)
   
-    - Enter token address for the token you are selling and the token you want to buy (check https://www.coingecko.com/ for the Ethereum address, which is the same on PoW as on PoS) 
+    - Enter token address for the token you are selling and the token you want to buy (check https://www.coingecko.com/ for the Ethereum address, which is the same on PoW as on PoS Mainnet) 
   
     - Enter the amount of tokens you would like to sell
 
