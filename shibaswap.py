@@ -12,15 +12,15 @@ pvt_key = ''
 # Set maximum slippage (1 = 100%, 0.5 = 50%, 0.001 = 0.1%, etc.)
 SLIPPAGE = 0.1
 
-# Address of the token you are selling (currently SHIB) 
+# Address of the token you are selling (currently SHIB)
 # Set this to 0x0000000000000000000000000000000000000000 if selling ETH
 sell = Web3.toChecksumAddress('0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE')
 
-# Address of the token you are buying (currently ETH) 
+# Address of the token you are buying (currently ETH)
 # Set this to 0x0000000000000000000000000000000000000000 if buying ETH
 buy = Web3.toChecksumAddress('0x0000000000000000000000000000000000000000')
 
-# Enter number of token you want to sell (must be an int)
+# Enter number of token you want to sell
 amount_tokens_to_sell = 1000
 
 #############################
@@ -61,4 +61,5 @@ token_out_quote = uni.get_price_input(sell, buy, fomatted_amount_tokens_to_sell)
 print(token_out_quote/(10**(buy_decimals)))
 
 # If okay with the quote them uncomment the below to execute the trade
-# uni.make_trade(sell, buy, fomatted_amount_tokens_to_sell, your_addy, slippage=SLIPPAGE)
+# receipt = uni.make_trade(sell, buy, fomatted_amount_tokens_to_sell, your_addy, slippage=SLIPPAGE)
+# print(receipt)
