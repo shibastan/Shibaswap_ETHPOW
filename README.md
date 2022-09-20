@@ -34,5 +34,5 @@ Python code for swapping tokens on Shibaswap on Proof-of-Work Ethereum
     - Enter the amount of tokens you would like to sell
 
 
-5. Run code, happy swapping!
+5. Run the code and it will print the expected number of tokens you will get for what you are sending in. If you are okay with this amount, then uncomment the last two lines of <b>shibaswap.py</b> and rerun the code. Happy swapping!
 
