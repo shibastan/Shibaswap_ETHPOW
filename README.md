@@ -20,7 +20,7 @@ Python code for swapping tokens on Shibaswap on Proof-of-Work Ethereum
     - Note that I changed a single file (constants.py) in the <i>uniswap-python</i> package to add support for Shibaswap on PoW Ethereum. I have included my version of constants.py in this repo for the reader to review, and I have also made my fork of <i>uniswap-python</i> public so that people can confirm the changes that were made.
 
 
-3. Download <b>shibaswap.py</b> and <b>ERC20_abi.json</b> from this Github, and save these in the same folder
+3. Download <b>shibaswap.py</b> and <b>ERC20_abi.json</b> from this repo, and save these in the same folder
 
 
 4. Set parameters in <b>shibaswap.py</b>
